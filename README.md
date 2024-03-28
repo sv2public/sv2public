@@ -1,4 +1,7 @@
-### Hi there 👋
+### CS Stan V. 
+Tets 1 python dev, fastapi dev
+Test 2 mysql, mongo db, redis, cassandra
+Test 3 docker, kubernetes, devops, git
 
 <!--
 **sv2public/sv2public** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
